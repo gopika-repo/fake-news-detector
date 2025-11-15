@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#F63366" # A vibrant pink for primary buttons/highlights
+backgroundColor="#FFE0F0" # Light Pink background
+secondaryBackgroundColor="#F0F2F6" # Default grey for secondary elements (sidebars etc.)
+textColor="#262730" # Dark text for readability
+font="sans serif"

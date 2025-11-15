@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temporary Files
+temp.jpg
+
+# Streamlit Secrets (Good practice)
+.streamlit/secrets.toml
